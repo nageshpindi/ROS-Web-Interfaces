@@ -8,7 +8,7 @@ Before cloning my repository we have to follow below instructions.
 
      * The Domain and Problem .pddl files to /home/rosplan/Nagesh/src/rosplan/rosplan_demos. These files define the domain and        problem in PDDL language.
      
-     > Make directory here  called "Roslib_node" and find those files to /home/rosplan/python-environments/Roslib_node which          make service calls to other nodes in ROSPlan framwork.
+     -- Make directory here  called "Roslib_node" and find those files to /home/rosplan/python-environments/Roslib_node which          make service calls to other nodes in ROSPlan framwork.
      
      > We are using either the "logistics.launch" at a time. Copy them to the ROSPlan workspace.
      
