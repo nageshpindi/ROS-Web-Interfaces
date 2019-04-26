@@ -1,4 +1,4 @@
-# ROS-webInterfaces
+# ROS-Web-Interfaces
 Before cloning my repository we have to follow below instructions.
   1. For installing ROS please refer this http://wiki.ros.org/kinetic/Installation/Ubuntu 
   2. For installing ROSPlan framework follow this link: https://github.com/KCL-Planning/ROSPlan and follow documentation in          this link: http://kcl-planning.github.io/ROSPlan/documentation/
